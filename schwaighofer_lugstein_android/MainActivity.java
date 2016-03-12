@@ -2,4 +2,6 @@ public static void main(int args[]){
 	System.out.println("Hello World!");
 }
 
-public void thisIsANewMethod(){ }
+public void thisIsANewMethod(){ 
+	int a = 0;
+}
