@@ -17,3 +17,7 @@ public void thisIsANewMethod(){
 	String msg = "hello world!!!";
 
 }
+
+public void thisIsAnOldMethod(){
+	System.out.println("I tried so hard, and got so far, in the end it doesnt even matter ... #toodeepforme")
+}
