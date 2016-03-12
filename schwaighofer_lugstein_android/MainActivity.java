@@ -4,4 +4,6 @@ public static void main(int args[]){
 
 public void thisIsANewMethod(){ 
 	int b = 999999;
+	
+	int a = 0;
 }
