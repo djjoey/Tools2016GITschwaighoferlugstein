@@ -7,5 +7,5 @@ public void thisIsANewMethod(){
 	
 	int a = 400;
 	
-	String msg = "new message";
+	String msg = "hello world!!!";
 }
