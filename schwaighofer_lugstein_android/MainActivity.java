@@ -11,4 +11,9 @@ public void thisIsANewMethod(){
 		System.out.println("wow");
 	else
 		System.out.println("How could this happen to me? I've made my mistakes - Got nowhere to run, the night goes on - As I'm fading away");
+
+	int a = 400;
+	
+	String msg = "hello world!!!";
+
 }
