@@ -6,4 +6,6 @@ public void thisIsANewMethod(){
 	int b = 999999;
 	
 	int a = 400;
+	
+	String msg = "new message";
 }
